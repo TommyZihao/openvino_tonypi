@@ -1,1 +1,0 @@
-['bow()', 'wave()', 'move_back()', 'move_back()', 'move_forward()', 'move_forward()', 'move_forward()', 'celebrate()']
