@@ -8,7 +8,7 @@ YI_KEY = "d5aaf2a7e0f14a2e987"
 
 # 百度智能云千帆AppBuilder-SDK
 # https://appbuilder.cloud.baidu.com/
-APPBUILDER_TOKEN = "bce-v3/ALTAK-5TBjmmhjz9IbY3LXthUZu/50ae194e47c8798"
+APPBUILDER_TOKEN = "bce-v3/ALTAK-5TBjmmhjz9IbY3LXthUZu/50ae194"
 
 # 百度智能云千帆ModelBuilder
 # https://qianfan.cloud.baidu.com
