@@ -6,6 +6,10 @@
 
 ## 视频
 
-只卖三千的人形机器人，竟能部署AI大模型？！：https://www.bilibili.com/video/BV1oh4HeLE3Z
+只卖三千的人形机器人，竟能部署AI大模型？！
 
-给机器人注入灵魂！三行OpenVINO代码在AIPC部署Qwen2开源大模型：https://www.bilibili.com/video/BV1TKtteDEe1
+https://www.bilibili.com/video/BV1oh4HeLE3Z
+
+给机器人注入灵魂！三行OpenVINO代码在AIPC部署Qwen2开源大模型
+
+https://www.bilibili.com/video/BV1TKtteDEe1
