@@ -1,8 +1,18 @@
-# 基于OpenVINO控制TonyPi人形机器人
+# 基于大模型语音控制的TonyPi人形机器人
 
-基于OpenVINO，在酷睿Ultra的AI PC上，本地部署Qwen2-7B-Instruct开源大模型，语音控制TonyPi人形机器人
+会唱跳RAP、搬运货物、巡线避障、打出“丝滑小连招”的人形机器人
 
 让具身智能体Agent理解复杂指令、编排高难动作、玩唱跳RAP、踢花样足球、搬繁重货物
+
+基于幻尔科技TonyPi人形机器人，提示词工程构建Agent智能体，人类只需输入模糊语义语音指令，AI即可自主思考，调用23种原子动作Function Call，编排生成动作列表和函数参数。
+
+## 支持的大模型
+
+- 英特尔开源AI推理框架OpenVINO，在搭载英特尔酷睿Ultra处理器的AIPC轻薄笔记本电脑上，端侧本地部署AI开源大模型通义千问Qwen2-7B-Instruct
+- 零一万物，包括Yi-Large等
+- 百度智能云千帆大模型平台，包括文心大模型4.0等
+- 扣子智能体
+- 亚马逊云科技Amazon Bedrock平台，包括Claude 3.5 Sonnet等
 
 ## 视频
 
@@ -13,3 +23,11 @@ https://www.bilibili.com/video/BV1oh4HeLE3Z
 给机器人注入灵魂！三行OpenVINO代码在AIPC部署Qwen2开源大模型
 
 https://www.bilibili.com/video/BV1TKtteDEe1
+
+DevDay | VL+Agent：探索AI与硬件融合的无限可能
+
+https://www.bilibili.com/video/BV1ZWxse9E9v
+
+【直播回放】10.29 OpenVINO™×魔搭社区 2024年10月29日13点场
+
+https://www.bilibili.com/video/BV1YpSqY4EQn
