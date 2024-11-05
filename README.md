@@ -31,3 +31,7 @@ https://www.bilibili.com/video/BV1ZWxse9E9v
 【直播回放】10.29 OpenVINO™×魔搭社区 2024年10月29日13点场
 
 https://www.bilibili.com/video/BV1YpSqY4EQn
+
+## 文档教程
+
+https://njapov1vnz.feishu.cn/docx/Z0dkdyNpTojSXWx06zZcjTjXndg
