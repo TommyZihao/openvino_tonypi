@@ -1,0 +1,1 @@
+['wave()', 'move_forward()', 'move_forward()', 'move_forward()', "kickball('red')", "transport('green')", 'squat()', 'stand()']
