@@ -9,7 +9,7 @@
 ## 支持的大模型
 
 - 英特尔开源AI推理框架OpenVINO，在搭载英特尔酷睿Ultra处理器的AIPC轻薄笔记本电脑上，端侧本地部署AI开源大模型通义千问Qwen2-7B-Instruct
-- 零一万物，包括Yi-Large等
+- 零一万物，包括Yi-Large等，支持长上下文多轮对话记忆
 - 百度智能云千帆大模型平台，包括文心大模型4.0等
 - 扣子智能体
 - 亚马逊云科技Amazon Bedrock平台，包括Claude 3.5 Sonnet等
