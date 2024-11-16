@@ -40,4 +40,4 @@ https://njapov1vnz.feishu.cn/docx/Z0dkdyNpTojSXWx06zZcjTjXndg
 
 在淘宝搜索TonyPi，跟客服说是子豪兄粉丝，有优惠
 
-如果你想直接购买子豪兄已经调试好的，接入大模型，能直接语音控制的，请B站私信同济子豪兄
+如果你想直接购买子豪兄已经调试配置好的，能接入大模型，直接语音控制的，请B站私信同济子豪兄
