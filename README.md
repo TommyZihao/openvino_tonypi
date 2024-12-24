@@ -22,7 +22,10 @@ https://www.bilibili.com/video/BV1oh4HeLE3Z
 
 给机器人注入灵魂！三行OpenVINO代码在AIPC部署Qwen2开源大模型
 
-https://www.bilibili.com/video/BV1TKtteDEe1
+https://www.bilibili.com/video/BV1TKtteDEe1https://www.bilibili.com/video/BV1TKtteDEe1
+
+和AI一起写代码开发人形机器人！
+https://www.bilibili.com/video/BV1vdshePEBz
 
 DevDay | VL+Agent：探索AI与硬件融合的无限可能
 
