@@ -50,10 +50,10 @@ https://njapov1vnz.feishu.cn/docx/Z0dkdyNpTojSXWx06zZcjTjXndg
 
 ## 机器人相关配件购买链接
 
-扬声器：https://item.taobao.com/item.htm?id=637852331039&ft=t&skuId=4745139539835
+扬声器（黑色50mm）：https://item.taobao.com/item.htm?id=637852331039&ft=t&skuId=4745139539835
 
-麦克风：https://item.m.jd.com/product/100025694525.html?utm_user=plusmember&gx=RnAomTM2bjLQypETqIx0DE4comdPUaQ&gxd=RnAowDZfajSNyM0TpoZyWq6tN79NpsQ&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL
+无线麦克风：https://item.m.jd.com/product/100025694525.html?utm_user=plusmember&gx=RnAomTM2bjLQypETqIx0DE4comdPUaQ&gxd=RnAowDZfajSNyM0TpoZyWq6tN79NpsQ&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL
 
-TypeC转USB接口：https://item.jd.com/100092622919.html#none
+TypeC转USB转接口：https://item.jd.com/100092622919.html#none
 
-（麦克风的TypeC插在接口上，接口插在机器人的USB口上，麦克风无线语音交互）
+（麦克风接收端TypeC插在转接口上，转接口插在机器人的USB口上）
