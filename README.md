@@ -47,3 +47,13 @@ https://njapov1vnz.feishu.cn/docx/Z0dkdyNpTojSXWx06zZcjTjXndg
 在淘宝搜索TonyPi，跟客服说是子豪兄粉丝，有优惠
 
 如果你想直接购买子豪兄已经调试配置好的，能接入大模型，直接语音交互对话的，请B站私信同济子豪兄，或加微信号tongjizihaoxiong
+
+## 机器人相关配件购买链接
+
+扬声器：https://item.taobao.com/item.htm?id=637852331039&ft=t&skuId=4745139539835
+
+麦克风：https://item.m.jd.com/product/100025694525.html?utm_user=plusmember&gx=RnAomTM2bjLQypETqIx0DE4comdPUaQ&gxd=RnAowDZfajSNyM0TpoZyWq6tN79NpsQ&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL
+
+TypeC转USB接口：https://item.jd.com/100092622919.html#none
+
+（麦克风的TypeC插在接口上，接口插在机器人的USB口上，麦克风无线语音交互）
