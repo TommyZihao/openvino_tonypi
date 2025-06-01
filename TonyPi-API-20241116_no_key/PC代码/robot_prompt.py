@@ -25,7 +25,7 @@ robot_order_template = '''
 从前倾趴卧起立，也就是从趴下到站起来：stand_up_front()
 从后仰躺倒起立，也就是从躺下到站起来：stand_up_back()
 巡线跨栏模式，顺着黑色线前进并跨越台阶等障碍物：athletics()
-播放音乐并跳舞（唱跳RAP）：rap()
+播放音乐并跳舞（唱跳RAP）：twist()
 踢不同颜色的足球：kickball('red')
 搬运不同颜色的海绵方块：transport('red green blue')
 
